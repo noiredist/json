@@ -1,0 +1,2179 @@
+{
+    "projects": [
+      {
+        "id": "fubiz-studio",
+        "title": "Fubiz studio",
+        "link": "/case/fubiz-studio",
+        "cover": {
+          "img": {
+            "src": "img/projects/fubiz-studio/cover.jpg",
+            "alt": "Fubiz studio"
+          }
+        },
+        "background_color": "#0A4576",
+        "summary": "En 2018, nous avons accompagné Romain Colin, créateur de Fubiz Media, dans le lancement de l’agence Fubiz•Studio, afin de mettre en avant les marques et les talents créatifs mis en relation sur des projets inspirants.",
+        "outbound": {
+          "link": "http://fubiz.studio/"
+        },
+        "missions": [
+          {
+            "id": "art-direction",
+            "title": "Art direction"
+          },
+          {
+            "id": "branding",
+            "title": "Branding"
+          },
+          {
+            "id": "user-experience",
+            "title": "User Experience"
+          },
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2018",
+        "awards": [
+          {
+            "id": "awwwards-nominee-soty-2018",
+            "title": "Awwwards Nominee Studio of the Year 2018"
+          },
+          {
+            "id": "fwa-sotd",
+            "title": "FWA of the day",
+            "link": "https://thefwa.com/cases/fubiz-studio"
+          },
+          {
+            "id": "awwwards-sotd",
+            "title": "Awwwards SOTD",
+            "link": "https://www.awwwards.com/sites/fubiz-studio"
+          },
+          {
+            "id": "awwwards-dev",
+            "title": "Awwwards Developer Site",
+            "link": "https://www.awwwards.com/sites/fubiz-studio"
+          }
+        ],
+        "story": [
+          {
+            "type": "text",
+            "title": "Mission",
+            "content": "<p>We wanted to create an ambitious website that presents some of the talents and projects of Fubiz Studio while having a comprehensive and accurate overview We knew we would benefit from quality visuals and we do not want to create a simple directory of talents and projects. We aimed to create a real user experience.</p><p>As a creative studio, we wanted to challenge ourselves and offer a site different from a classic portfolio.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/1-intro.jpg",
+                "alt": "Fubiz Studio Intro"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2074,
+              "height": 1440,
+              "poster": "img/projects/fubiz-studio/2-home.jpg",
+              "source": [
+                {
+                  "src": "video/projects/fubiz-studio/intro.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/2-home.jpg",
+                "alt": "Fubiz Studio Home"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "content": "<p>The large number of talents present on the site made us to find a real browsing experience in order to quickly have an exhaustive vision. We chose a grid in which we can navigate to discover talents and projects. We added the ability to list or filter talents/projects as well as switch from talents to projects.</p><p>Fubiz Studio is the link between talents and brands. It's a meeting place. Fubiz Studio is at the center of the creative process. The dot thus became for us an important shape that we would find on the identity and also in the website. After some consideration, it makes sense to use the dot as the main navigation element (cursor) of the website. The dot acts as a cursor in which contextual navigation indications appear. The dot is alive and guides us through talents and projects.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/3-home-full.jpg",
+                "alt": "Fubiz Studio Home"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/4-creative.jpg",
+                "alt": "Fubiz Studio Creative"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/5-grid-talents.jpg",
+                "alt": "Fubiz Studio Grid Talents"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2074,
+              "height": 1440,
+              "poster": "img/projects/fubiz-studio/5-grid-talents.jpg",
+              "source": [
+                {
+                  "src": "video/projects/fubiz-studio/grid-talents.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/6-list-talent.jpg",
+                "alt": "Fubiz Studio List Talents"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2068,
+              "height": 1440,
+              "poster": "img/projects/fubiz-studio/6-list-talent.jpg",
+              "source": [
+                {
+                  "src": "video/projects/fubiz-studio/list-talents.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/7-filter.jpg",
+                "alt": "Fubiz Studio Filter"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/8-grid-project.jpg",
+                "alt": "Fubiz Studio Grid Project"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/9-list-projects.jpg",
+                "alt": "Fubiz Studio List Project"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/10-project.jpg",
+                "alt": "Fubiz Studio Project"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/mobile-full.jpg",
+                "alt": "Fubiz Studio Mobile Full"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/11-about.jpg",
+                "alt": "Fubiz Studio About"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/12-reach.jpg",
+                "alt": "Fubiz Studio Reach"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-studio/13-contact.jpg",
+                "alt": "Fubiz Studio About"
+              }
+            }
+          }
+        ],
+        "tweetimonies": [
+          {
+            "id": "963780120724066304",
+            "date": "Feb. 14, 2018",
+            "author": "@jcsuzanne",
+            "quote": "Gros gros taf congrats guys",
+            "link": "https://twitter.com/jcsuzanne/status/963780120724066304"
+          },
+          {
+            "id": "966967282399432704",
+            "date": "Feb. 23, 2018",
+            "author": "@W2PDigital",
+            "quote": "On ne s’en lasse pas ! La folie @fubiz 🎉🔥",
+            "link": "https://twitter.com/W2PDigital/status/966967282399432704"
+          },
+          {
+            "id": "964044767838556160",
+            "date": "Feb. 15, 2018",
+            "author": "@studiomotio",
+            "quote": "No words. Just talent. 👏",
+            "link": "https://twitter.com/studiomotio/status/964044767838556160"
+          },
+          {
+            "id": "964423385160736768",
+            "date": "Feb. 16, 2018",
+            "author": "@thibautthomas",
+            "quote": "Extrêmement satisfaisant en mobile, belle attention aux gestes de swipe etc. Bravo.",
+            "link": "https://twitter.com/thibautthomas/status/964423385160736768"
+          }
+        ]
+      },
+      {
+        "id": "keus",
+        "title": "Keus",
+        "link": "/case/keus",
+        "cover": {
+          "img": {
+            "src": "img/projects/keus/cover.jpg",
+            "alt": "Keus"
+          }
+        },
+        "background_color": "#1705cc",
+        "summary": "<p>Keus is a site that specializes in the sale of quality backpacks. The Keus team consists of designers and engineers, artists and stylists, photographers and audiovisual technicians—all of whom are committed to testing and selecting the best backpacks on the market.</p>",
+        "outbound": {
+          "link": "https://www.keus-store.com/"
+        },
+        "missions": [
+          {
+            "id": "branding",
+            "title": "Branding"
+          },
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2018",
+        "awards": [
+          {
+            "id": "awwwards-nominee-eshop-oty-2018",
+            "title": "Awwwards Nominee ecommerce of the Year 2018"
+          },
+          {
+            "id": "awwwards-sotd",
+            "title": "Awwwards SOTD",
+            "link": "https://www.awwwards.com/sites/keus"
+          },
+          {
+            "id": "awwwards-dev",
+            "title": "Awwwards Developer Site",
+            "link": "https://www.awwwards.com/sites/keus"
+          }
+        ],
+        "story": [
+          {
+            "type": "text",
+            "title": "Concept",
+            "content": "<p>For this project, we created the branding for Keus. So, for the web design, we aimed to generate a technical branding, creating a grid system with bold typography and a hint of pure blue.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/logo.jpg",
+                "alt": "Keus Logo"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/1.jpg",
+                "alt": "Keus Image 1"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "title": "Horizontal Scroll",
+            "content": "<p>The backpacks behave like paintings in an art gallery, we unroll the page from left to right as if we were walking in a gallery. We wanted to create an online shopping experience with a horizontal scroll.</p><p class='mt-24'>The horizontal scroll creates a unique experience, allowing users to enjoy the products and gain a rich understanding about each of them.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/2.jpg",
+                "alt": "Keus Image 2"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/products-full.jpg",
+                "alt": "Keus Image Products"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/3.jpg",
+                "alt": "Keus Image 3"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/about-us.jpg",
+                "alt": "Keus Page About"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/product-daypack.jpg",
+                "alt": "Keus Page Produit Daypack"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/product-full.jpg",
+                "alt": "Keus Page product_full"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/product-isar-ballistic.jpg",
+                "alt": "Keus Page Produit Isar-M-Ballistic 2"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/article-full.jpg",
+                "alt": "Keus Page Article"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/keus/mobile.jpg",
+                "alt": "Keus Page mobile"
+              }
+            }
+          }
+        ],
+        "tweetimonies": [
+          {
+            "id": "1019561917457797121",
+            "date": "Jul. 18, 2018",
+            "author": "@wonderlandams",
+            "quote": "Cooool!🤘",
+            "link": "https://twitter.com/wonderlandams/status/1019561917457797121"
+          },
+          {
+            "id": "1014798034658627584",
+            "date": "Jul. 5, 2018",
+            "author": "@jcsuzanne",
+            "quote": "Shop propreté",
+            "link": "https://twitter.com/jcsuzanne/status/1014798034658627584"
+          },
+          {
+            "id": "1103658403912667136",
+            "date": "Mar. 7, 2019",
+            "author": "@dadj3ans",
+            "quote": "If you described this website to me in words i'd probably hate it, but honestly this side-scrolling experience works pretty well",
+            "link": "https://twitter.com/dadj3ans/status/1103658403912667136"
+          }
+        ]
+      },
+      {
+        "id": "sony-music-france",
+        "title": "Sony Music France",
+        "link": "/case/sony-music-france",
+        "cover": {
+          "img": {
+            "src": "img/projects/sony-music/cover.jpg",
+            "alt": "Sony Music France"
+          }
+        },
+        "background_color": "#a80015",
+        "summary": "<p>Après plusieurs projets réalisés pour ses artistes, Sony Music France nous a confié en 2018 la refonte de la version mobile du site du label de disques.</p>",
+        "outbound": {
+          "link": "https://www.sonymusic.fr/",
+          "label": "Découvrir le site sur mobile"
+        },
+        "missions": [
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2018",
+        "story": [
+          {
+            "type": "text",
+            "title": "Expérience",
+            "content": "<p>Un site pensé et designé comme une application mobile. Scroll vertical & horizontal, swipe… nous avons repris les principes d’expérience utilisateur des applications mobile actuelles.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/sony-music/1-intro.png",
+                "alt": "Sony Music France Mobile Page Accueil"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/sony-music/full.jpg",
+                "alt": "Sony Music France Mobile image full"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/sony-music/2-artistes.png",
+                "alt": "Sony Music France Mobile Page Artistes"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/sony-music/3-concerts-1.png",
+                "alt": "Sony Music France Mobile Page Concerts"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "content": "<p>Sony Music nous a laissé carte blanche sur le choix des typographies tout en conservant les couleurs du label.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/sony-music/4-concerts.png",
+                "alt": "Sony Music France Mobile Page Concerts 2"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/sony-music/5-labels.png",
+                "alt": "Sony Music France Mobile Page Labels"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/sony-music/6-artiste.png",
+                "alt": "Sony Music France Mobile Page Artiste"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "new-jumo-concept",
+        "title": "New Jumo Concept",
+        "link": "/case/new-jumo-concept",
+        "cover": {
+          "img": {
+            "src": "img/projects/new-jumo-concept/cover.jpg",
+            "alt": "New Jumo Concept"
+          }
+        },
+        "background_color": "#1C1C1C",
+        "summary": "<p>La lampe JUMO Classique est une réédition moderne conforme au modèle historique créé en 1944.<br>Aujourd’hui, la société NEW JUMO CONCEPT réédite la lampe sous l’appellation « Classique », en conservant les matériaux et détails d’origine.</p>",
+        "outbound": {
+          "link": "http://www.newjumoconcept.com"
+        },
+        "missions": [
+          {
+            "id": "art-direction",
+            "title": "Art Direction"
+          },
+          {
+            "id": "branding",
+            "title": "Branding"
+          },
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2014",
+        "awards": [
+          {
+            "id": "awwwards-sotd",
+            "title": "Awwwards SOTD",
+            "link": "http://www.awwwards.com/sites/poignee-de-main-virile"
+          }
+        ],
+        "story": [
+          {
+            "type": "text",
+            "title": "Mission",
+            "content": "<p>À l’occasion de la réédition de la lampe Jumo, la marque New Jumo nous a fait confiance en nous demandant de réaliser son site internet. Pour cet événement, nous avons pu créer une vraie expérience pour l'utilisateur afin qu'il découvre les différents aspects de la lampe tout en parcourant le site.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 1552,
+              "height": 960,
+              "poster": "img/projects/new-jumo-concept/01.jpg",
+              "source": [
+                {
+                  "src": "video/projects/new-jumo-concept/jumo.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/new-jumo-concept/02.jpg",
+                "alt": "New Jumo Concept Image 2"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/new-jumo-concept/03.jpg",
+                "alt": "New Jumo Concept Image 3"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/new-jumo-concept/full.jpg",
+                "alt": "New Jumo Concept Image 8"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/new-jumo-concept/04.jpg",
+                "alt": "New Jumo Concept Image 4"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/new-jumo-concept/05.jpg",
+                "alt": "New Jumo Concept Image 5"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 1552,
+              "height": 960,
+              "poster": "img/projects/new-jumo-concept/04.jpg",
+              "source": [
+                {
+                  "src": "video/projects/new-jumo-concept/jumo2.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/new-jumo-concept/06.jpg",
+                "alt": "New Jumo Concept Image 6"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/new-jumo-concept/07.jpg",
+                "alt": "New Jumo Concept Image 7"
+              }
+            }
+          }
+        ],
+        "tweetimonies": [
+          {
+            "id": "499577851390488577",
+            "date": "Aug. 13, 2014",
+            "author": "@flavienguilbaud",
+            "quote": "Good job",
+            "link": "https://twitter.com/flavienguilbaud/status/499577851390488577"
+          },
+          {
+            "id": "499577360807895041",
+            "date": "Aug. 13, 2014",
+            "author": "@rubxkub",
+            "quote": "NICE.",
+            "link": "https://twitter.com/rubxkub/status/499577360807895041"
+          },
+          {
+            "id": "501768388452970496",
+            "date": "Aug. 19, 2014",
+            "author": "@claudioguglieri",
+            "quote": "Really nicely done, awesome pics too",
+            "link": "https://twitter.com/claudioguglieri/status/501768388452970496"
+          },
+          {
+            "id": "522169076899405824",
+            "date": "Oct. 15, 2014",
+            "author": "@Valentin",
+            "quote": "Best loading effect ever.",
+            "link": "https://twitter.com/Valentin/status/522169076899405824"
+          }
+        ]
+      },
+      {
+        "id": "the-feebles",
+        "title": "The Feebles",
+        "link": "/case/the-feebles",
+        "cover": {
+          "img": {
+            "src": "img/projects/the-feebles/cover.jpg",
+            "alt": "The Feebles"
+          }
+        },
+        "background_color": "#2c986f",
+        "summary": "<p>The Feebles est un studio nantais spécialisé dans la création graphique et l’illustration.  Pour répondre aux commandes, le duo compose de nouveaux formats et emploie différentes techniques, et n’en garde pas moins sa touche ludique et moderne.</p>",
+        "outbound": {
+          "link": "http://www.thefeebles.com/"
+        },
+        "missions": [
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2017",
+        "awards": [
+          {
+            "id": "awwwards-sotd",
+            "title": "Awwwards SOTD",
+            "link": "https://www.awwwards.com/sites/the-feebles"
+          }
+        ],
+        "story": [
+          {
+            "type": "text",
+            "title": "Mission",
+            "content": "<p>Gaëtan Guerlais et Anaël Moreau nous ont confié la refonte de leur site portfolio, avec la volonté de présenter un très grand nombre de projets et de mettre en avant leur diversité.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2074,
+              "height": 1440,
+              "source": [
+                {
+                  "src": "video/projects/the-feebles/intro.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/the-feebles/1.jpg",
+                "alt": "The Feebles Image 1"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "title": "Concept",
+            "content": "<p>Pour présenter la multitude de projets (plus de 40!), nous avons imaginé une présentation en 2 temps&nbsp;: une première liste réduite pour mettre en avant certains projets et une liste complète à découvrir, où l’utilisateur peut découvrir son ensemble sans action supplémentaire, simplement en déplacant son curseur dans la page.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2084,
+              "height": 1440,
+              "poster": "img/projects/the-feebles/1.jpg",
+              "source": [
+                {
+                  "src": "video/projects/the-feebles/more-projects.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/the-feebles/projet.jpg",
+                "alt": "The Feebles Image Projet"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/the-feebles/2.jpg",
+                "alt": "The Feebles Image 2"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2068,
+              "height": 1440,
+              "poster": "img/projects/the-feebles/2.jpg",
+              "source": [
+                {
+                  "src": "video/projects/the-feebles/contact.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/the-feebles/studio.jpg",
+                "alt": "The Feebles Image studio"
+              }
+            }
+          }
+        ],
+        "tweetimonies": [
+          {
+            "id": "877520501127745536",
+            "date": "Jun. 21, 2017",
+            "author": "@rbriaux",
+            "quote": "Great portfolio, really like details and animations",
+            "link": "https://twitter.com/rbriaux/status/877520501127745536"
+          },
+          {
+            "id": "877486224449163264",
+            "date": "Jun. 21, 2017",
+            "author": "@jcsuzanne",
+            "quote": "Supa dupa smooth by the great team @poigneedmv",
+            "link": "https://twitter.com/jcsuzanne/status/877486224449163264"
+          },
+          {
+            "id": "877456042938036224",
+            "date": "Jun. 21, 2017",
+            "author": "@Richyknoxville",
+            "quote": "Nice, simple & efficient",
+            "link": "https://twitter.com/Richyknoxville/status/877456042938036224"
+          },
+          {
+            "id": "877574358314622977",
+            "date": "Jun. 21, 2017",
+            "author": "@ayamflow",
+            "quote": "🙌  best contact form",
+            "link": "https://twitter.com/ayamflow/status/877574358314622977"
+          }
+        ]
+      },
+      {
+        "id": "agence-titan",
+        "title": "Agence Titan",
+        "link": "/case/agence-titan",
+        "cover": {
+          "img": {
+            "src": "img/projects/titan/cover.jpg",
+            "alt": "Titan"
+          }
+        },
+        "background_color": "#c3bcab",
+        "summary": "<p>L’agence d’architecture nantaise Titan créée en 2011 par Mathieu Barré, François Guinaudeau et Romain Pradeau nous a confié la refonte de leur site internet.</p>",
+        "outbound": {
+          "link": "http://www.agencetitan.com/"
+        },
+        "missions": [
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2018",
+        "story": [
+          {
+            "type": "text",
+            "title": "Réalisation",
+            "content": "<p>Le site est un portfolio en ligne où nous naviguons de projet en projet de manière horizontale.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/titan/1.jpg",
+                "alt": "Titan Image 1"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/titan/2.jpg",
+                "alt": "Titan Image 2"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "title": "Concept",
+            "content": "<p>Pour la liste des projets, nous avons imaginé 2 visions. Une vision par titre avec un visuel et une autre vision plus technique où nous indiquons l’année, le lieu et une cartographie du lieu dans son environnement.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2078,
+              "height": 1440,
+              "poster": "img/projects/titan/6.jpg",
+              "source": [
+                {
+                  "src": "video/projects/titan/projects.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/titan/mobile.jpg",
+                "alt": "Titan Image Mobile"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "title": "Expérience",
+            "content": "<p>Le déroulé d’un projet se fait à l'horizontal, tout en conservant le comportement classique et vertical du navigateur.</p><p class='mt-24'>À l’aide d’un back-office sur-mesure sous WordPress, le client peut choisir l’alternance d'image portrait ou paysage, ainsi que leur position verticale, et créer ainsi un rythme de lecture unique par projet.</p><p class='mt-24'>Les projets s’enchainent mais ne se ressemblent pas…</p>"
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/titan/projet-full.jpg",
+                "alt": "Titan Image Project"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "content": "<p>Chaque projet est constitué de photographies présentant le rendu final de leur travail ainsi que des informations complémentaires liées au projet.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2074,
+              "height": 1440,
+              "poster": "",
+              "source": [
+                {
+                  "src": "video/projects/titan/scroll.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/titan/5.jpg",
+                "alt": "Titan Image 5"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/titan/agence.jpg",
+                "alt": "Titan Page Agence"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/titan/actus.jpg",
+                "alt": "Titan Image Actus"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7h34",
+        "title": "7h34",
+        "link": "/case/7h34",
+        "cover": {
+          "img": {
+            "src": "img/projects/7h34/cover.jpg",
+            "alt": "Studio 7h34"
+          }
+        },
+        "background_color": "#a46c48",
+        "summary": "<p>7h34 est un studio de création graphique nantais qui s’applique à écouter les besoins, exprimer des envies et amener du sens à l’esthétisme.</p>",
+        "outbound": {
+          "link": "http://www.7h34.fr"
+        },
+        "missions": [
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2017",
+        "awards": [
+          {
+            "id": "awwwards-sotd",
+            "title": "Awwwards SOTD",
+            "link": "https://www.awwwards.com/sites/7h34"
+          },
+          {
+            "id": "awwwards-dev",
+            "title": "Awwwards Developer Site",
+            "link": "https://www.awwwards.com/sites/7h34"
+          }
+        ],
+        "story": [
+          {
+            "type": "text",
+            "title": "Mission",
+            "content": "<p>À l’occasion des 3 ans du studio 7h34, le duo de designer graphique nous a missionné pour réaliser leur portfolio.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 1039,
+              "height": 720,
+              "poster": "img/projects/7h34/1.jpg",
+              "source": [
+                {
+                  "src": "video/projects/7h34/intro.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "text",
+            "title": "Concept",
+            "content": "<p>Le nom du studio faisant référence à un moment de la journée, nous avons imaginé une expérience chronologique pour présenter 12 de leurs projets, comme les 12 heures d’une horloge.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/2.jpg",
+                "alt": "7h34 Image 2"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/full.jpg",
+                "alt": "7h34 Image full"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/3.jpg",
+                "alt": "7h34 Image 3"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/4.jpg",
+                "alt": "7h34 Image 4"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/5.jpg",
+                "alt": "7h34 Image 5"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/6.jpg",
+                "alt": "7h34 Image 6"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 1039,
+              "height": 720,
+              "poster": "img/projects/7h34/7.jpg",
+              "source": [
+                {
+                  "src": "video/projects/7h34/transition.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "text",
+            "content": "<p>La notion horaire est omniprésente et joue le rôle de fil conducteur entre les&nbsp;projets.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/8.jpg",
+                "alt": "7h34 Image 8"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/9.jpg",
+                "alt": "7h34 Image 9"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/10.jpg",
+                "alt": "7h34 Image 10"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/7h34/projet.jpg",
+                "alt": "7h34 Image Projet"
+              }
+            }
+          }
+        ],
+        "tweetimonies": [
+          {
+            "id": "842780409280806912",
+            "date": "Mar. 17, 2017",
+            "author": "@ThomasGrelet",
+            "quote": "Propry, le temps comme fil conducteur du folio + la nav 👊",
+            "link": "https://twitter.com/ThomasGrelet/status/842780409280806912"
+          },
+          {
+            "id": "843770929046044672",
+            "date": "Mar. 20, 2017",
+            "author": "@frede",
+            "quote": "such a smooth and beautiful portfolio site 🔥 😭",
+            "link": "https://twitter.com/frede/status/843770929046044672"
+          },
+          {
+            "id": "843528784666091520",
+            "date": "Mar. 19, 2017",
+            "author": "@joaodealmei",
+            "quote": "You know great Design when you see one.<br>7h34 is just a clean, elegant, piece of art.",
+            "link": "https://twitter.com/joaodealmei/status/843528784666091520"
+          },
+          {
+            "id": "849263513268875264",
+            "date": "Apr. 4, 2017",
+            "author": "@EmmanuelJulliot",
+            "quote": "Beauty 😍",
+            "link": "https://twitter.com/EmmanuelJulliot/status/849263513268875264"
+          }
+        ]
+      },
+      {
+        "id": "madame-porte-la-culotte",
+        "title": "Madame porte la culotte",
+        "link": "/case/madame-porte-la-culotte",
+        "cover": {
+          "img": {
+            "src": "img/projects/mplc/cover.jpg",
+            "alt": "Madame porte la culotte"
+          }
+        },
+        "background_color": "#03332a",
+        "summary": "<p>Madame porte la culotte est une toute nouvelle marque de sous-vêtements féminins en coton bio, fabriqués de manière éthique et responsable, dont l’objectif est d’aider les femmes à se sentir bien dans leur peau autant que dans leurs sous-vêtements, et à s’aimer et s’accepter telles qu’elles sont.</p>",
+        "outbound": {
+          "link": "https://www.madameportelaculotte.com/"
+        },
+        "missions": [
+          {
+            "id": "branding",
+            "title": "Branding"
+          },
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2018",
+        "story": [
+          {
+            "type": "text",
+            "title": "Mission",
+            "content": "<p>La cliente nous a confié la réalisation de l’identité graphique de la marque, le webdesign et le développement de la boutique en ligne.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2074,
+              "height": 1440,
+              "source": [
+                {
+                  "src": "video/projects/mplc/home.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/mplc/home.jpg",
+                "alt": "Madame porte la culotte Home"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "title": "Expérience",
+            "content": "<p>La découverte des produits se fait par un jeu de couleurs au scroll et une typographie importante, pour mettre en avant les visuels et le nom accrocheur des produits.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2068,
+              "height": 1440,
+              "poster": "img/projects/mplc/2.jpg",
+              "source": [
+                {
+                  "src": "video/projects/mplc/boutique.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/mplc/full2.jpg",
+                "alt": "Madame porte la culotte Boutique"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/mplc/produit.jpg",
+                "alt": "Madame porte la culotte Page produit"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/mplc/panier.jpg",
+                "alt": "Madame porte la culotte Panier"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/mplc/journal.jpg",
+                "alt": "Madame porte la culotte Page Journal"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/mplc/mobile.jpg",
+                "alt": "Madame porte la culotte Page Journal"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fubiz-talks-2018",
+        "title": "Fubiz Talks 2018",
+        "link": "/case/fubiz-talks-2018",
+        "cover": {
+          "img": {
+            "src": "img/projects/fubiz-talks-2018/cover.jpg",
+            "alt": "Fubiz Talks 2018"
+          }
+        },
+        "background_color": "#c2a86b",
+        "summary": "<p>3<sup>ème</sup> édition des \"Fubiz Talks\", rendez-vous annuel européen de la créativité à Paris, produit en collaboration par TETRO et Fubiz. Une journée créative et inspirante rythmée par les conférences de nombreux créateurs pluri-disciplinaires et des performances visuelles et musicales.</p>",
+        "outbound": {
+          "link": "http://www.fubiztalks.com/"
+        },
+        "missions": [
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2018",
+        "awards": [
+          {
+            "id": "awwwards-hm",
+            "title": "Awwwards Honorable Mention",
+            "link": "https://www.awwwards.com/sites/fubiz-talks-2018"
+          }
+        ],
+        "story": [
+          {
+            "type": "text",
+            "title": "Mission",
+            "content": "<p>Après Fubiz Studio, Romain Colin de Fubiz nous a accordé à nouveau sa confiance pour la réalisation du site promouvant l’événement. Une mise en valeur des speakers de l’édition 2018 et des années précédentes en passant par une présentation de la Salle Pleyel et des partenaires, le site se veut informatif avec la&nbsp;possibilité à tout moment de se diriger sur la billetterie en ligne.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2078,
+              "height": 1440,
+              "poster": "img/projects/fubiz-talks-2018/1.jpg",
+              "source": [
+                {
+                  "src": "video/projects/fubiz-talks-2018/intro-fubiz.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-talks-2018/home.jpg",
+                "alt": "Fubiz Talks 2018 Home"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "title": "Approche",
+            "content": "<p>La direction artistique du site est basée sur un jeu typographique. L’association d'une condensed et d’une bold créant un contraste graphique fort.</p><p class='mt-24'>L’or et le noir, symbole d’élégance et de prestige, permettent d’augmenter le contraste visuel et de correspondre aux valeurs de l’événement.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2078,
+              "height": 1440,
+              "poster": "img/projects/fubiz-talks-2018/4.jpg",
+              "source": [
+                {
+                  "src": "video/projects/fubiz-talks-2018/edition-precedente.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-talks-2018/full-maquette.jpg",
+                "alt": "Fubiz Talks 2018 Maquettes"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-talks-2018/2.jpg",
+                "alt": "Fubiz Talks 2018 Image 2"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-talks-2018/3.jpg",
+                "alt": "Fubiz Talks 2018 Image 3"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/fubiz-talks-2018/mobile.jpg",
+                "alt": "Fubiz Talks 2018 Image mobile"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "antigel",
+        "title": "Antigel",
+        "link": "/case/antigel",
+        "cover": {
+          "img": {
+            "src": "img/projects/antigel/cover.jpg",
+            "alt": "Antigel"
+          }
+        },
+        "background_color": "#2e1b6d",
+        "summary": "<p>L’agence Antigel nous a fait confiance pour réaliser son site internet et ainsi mettre en valeur son image et ses réalisations.<br>Prônant un modèle collaboratif innovant et performant, l’agence Antigel déniche, fédère et anime ainsi un réseau de talents pour que de tous ces frottements créatifs surgisse l’étincelle.</p>",
+        "outbound": {
+          "link": "http://www.antigel.agency/"
+        },
+        "missions": [
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2016",
+        "story": [
+          {
+            "type": "text",
+            "title": "Concept",
+            "content": "<p>La page d’accueil présente les dernières réalisations vidéos de l’agence, avec la forme de l’identité en sur-impression pour affirmer la marque.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/antigel/1.jpg",
+                "alt": "Antigel Image 1"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/antigel/2.jpg",
+                "alt": "Antigel Image 2"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/antigel/full-maquette.jpg",
+                "alt": "Antigel Maquettes"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/antigel/3.jpg",
+                "alt": "Antigel Image 3"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/antigel/references.jpg",
+                "alt": "Antigel Image References"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "title": "Réalisation",
+            "content": "<p>La mise en place d'un back-office sur-mesure sous WordPress permet au client des mises en forme uniques pour chaque étude de cas.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/antigel/projet.jpg",
+                "alt": "Antigel Page projet"
+              }
+            }
+          }
+        ],
+        "tweetimonies": [
+          {
+            "id": "702055965328281601",
+            "date": "Fev. 23, 2016",
+            "author": "@DesignusStudio",
+            "quote": "Clean & smooth la nouvelle prod de @poigneedmv",
+            "link": "https://twitter.com/DesignusStudio/status/702055965328281601"
+          }
+        ]
+      },
+      {
+        "id": "la-reserve",
+        "title": "La Réserve",
+        "link": "/case/la-reserve",
+        "cover": {
+          "img": {
+            "src": "img/projects/la-reserve/cover.jpg",
+            "alt": "La Réserve"
+          }
+        },
+        "background_color": "#02224f",
+        "summary": "<p>La Réserve, enseigne multimarque de prêt-à-porter et accessoires haut de gamme, présente sur La Baule et Nantes, souhaitait une refonte de son site internet afin de&nbsp;le&nbsp;rendre plus actuel et en adéquation avec l’univers de&nbsp;ses boutiques.</p>",
+        "outbound": {
+          "link": "http://www.lareserve.store"
+        },
+        "missions": [
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2017",
+        "story": [
+          {
+            "type": "text",
+            "title": "Mission",
+            "content": "<p>L’agence de communication <a href='http://magacom.fr/' rel='nofollow noopener' target='_blank'>Maga communication</a> a souhaité travailler avec nous pour réaliser le site de La Réserve à l’occasion de l’ouverture de la nouvelle boutique nantaise.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/la-reserve/intro-mobile.png",
+                "alt": "La Réserve Page d'accueil desktop et mobile"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "video": {
+              "width": 2078,
+              "height": 1440,
+              "poster": "img/projects/la-reserve/menu.jpg",
+              "source": [
+                {
+                  "src": "video/projects/la-reserve/la-reserve.mp4",
+                  "type": "video/mp4"
+                }
+              ]
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/la-reserve/menu.jpg",
+                "alt": "La Réserve Menu"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/la-reserve/nos-magasins.jpg",
+                "alt": "La Réserve Nos magasins"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "title": "Réalisation",
+            "content": "<p>Nous avons réaliser un site informatif, véhiculant une image chic et dynamique mettant en avant les valeurs du magasin.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/la-reserve/nantes.png",
+                "alt": "La Réserve Magasin Nantes"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/la-reserve/full-maquette.jpg",
+                "alt": "Maquettes La Réserve"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "title": "Concept",
+            "content": "<p>La possibilité de demander en ligne une personnalisation de vêtements nous a été demandé. Nous avons revu le système d’un formulaire pour le rendre plus immersif et graphique. En 4 étapes l’utilisateur peut sélectionner ses choix de personnalisation afin d’être contacté ensuite par l’équipe de La Réserve.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/la-reserve/personnalisation.jpg",
+                "alt": "La Réserve Étapes Personnalisation"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "barbe-n-blues",
+        "title": "Barbe N Blues",
+        "link": "/case/barbe-n-blues",
+        "cover": {
+          "img": {
+            "src": "img/projects/barbe-n-blues/cover.jpg",
+            "alt": "Barbe N Blues"
+          }
+        },
+        "background_color": "#021b30",
+        "summary": "<p>Barbe N Blues est une marque nantaise de soins pour hommes lancée en 2013. Des cosmétiques certifiés bio par&nbsp;Nature et Progrès et des accessoires de fabrication artisanale. Made in France.</p>",
+        "outbound": {
+          "link": "https://www.barbe-n-blues.fr/"
+        },
+        "missions": [
+          {
+            "id": "webdesign",
+            "title": "Webdesign"
+          },
+          {
+            "id": "front-end",
+            "title": "Front-end"
+          },
+          {
+            "id": "back-end",
+            "title": "Back-end"
+          }
+        ],
+        "year": "2018",
+        "story": [
+          {
+            "type": "text",
+            "title": "Mission",
+            "content": "<p>Nous avons accompagné le client dans le cadre de la refonte de sa boutique en ligne Barbe N Blues, en partenariat avec l’agence de webmarketing nantaise <a href='https://www.khosi.fr/' rel='nofollow noopener' target='_blank'>Khosi</a>.</p>"
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/1.jpg",
+                "alt": "Barbe N Blues Image 1"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/home.jpg",
+                "alt": "Barbe N Blues Home"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/2.jpg",
+                "alt": "Barbe N Blues Image 2"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/4.jpg",
+                "alt": "Barbe N Blues Image 4"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/5.jpg",
+                "alt": "Barbe N Blues Image 5"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/mobile.jpg",
+                "alt": "Barbe N Blues Image mobile"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "full",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/full-maquette.jpg",
+                "alt": "Barbe N Blues Maquettes"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/6.jpg",
+                "alt": "Barbe N Blues Image 6"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/7.jpg",
+                "alt": "Barbe N Blues Image 7"
+              }
+            }
+          },
+          {
+            "type": "media",
+            "layer": "classic",
+            "picture" : {
+              "img": {
+                "src": "img/projects/barbe-n-blues/article.jpg",
+                "alt": "Barbe N Blues Page article"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "makemepulse",
+        "date": "Jul. 22, 2020",
+        "link": "https://www.makemepulse.com/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Developer Site",
+        "to": "makemepulse",
+        "date": "Jul. 22, 2020",
+        "link": "https://www.makemepulse.com/"
+      },
+      {
+        "organization": "FWA",
+        "title": "Site of the day",
+        "to": "makemepulse",
+        "date": "Jul. 11, 2020",
+        "link": "https://www.makemepulse.com/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "Blackmeal",
+        "date": "Jun. 30, 2020",
+        "link": "https://blackmeal.com/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Developer Site",
+        "to": "Blackmeal",
+        "date": "Jun. 30, 2020",
+        "link": "https://blackmeal.com/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Honorable mention",
+        "to": "Akind",
+        "date": "Dec. 20, 2019",
+        "link": "http://akind.jp/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "elium studio",
+        "date": "Nov. 13, 2019",
+        "link": "https://elium.studio/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Developer Site",
+        "to": "elium studio",
+        "date": "Nov. 13, 2019",
+        "link": "https://elium.studio/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "Millemann Wines",
+        "date": "Sept. 24, 2019",
+        "link": "https://www.millemannwines.fr/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Developer Site",
+        "to": "Millemann Wines",
+        "date": "Sept. 24, 2019",
+        "link": "https://www.millemannwines.fr/"
+      },
+      {
+        "organization": "FWA",
+        "title": "Site of the day",
+        "to": "Studio P2MV",
+        "date": "May 05, 2019",
+        "link": ""
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "Studio P2MV",
+        "date": "Apr. 13, 2019",
+        "link": ""
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Mobile Excellence",
+        "to": "Studio P2MV",
+        "date": "Mar. 25, 2019",
+        "link": ""
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Nominee Studio of the Year",
+        "to": "Poignee de main virile",
+        "date": "2018",
+        "link": ""
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Nominee site of the Year",
+        "to": "Fubiz Studio",
+        "date": "2018",
+        "link": ""
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Nominee ecommerce of the Year",
+        "to": "Keus",
+        "date": "2018",
+        "link": ""
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Mobile Excellence",
+        "to": "Sei Yamazaki",
+        "date": "Nov. 20, 2018",
+        "link": "http://seiyamazaki.com/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "Sei Yamazaki",
+        "date": "Nov. 19, 2018",
+        "link": "http://seiyamazaki.com/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Developer Site",
+        "to": "Sei Yamazaki",
+        "date": "Nov. 19, 2018",
+        "link": "http://seiyamazaki.com/"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Honorable mention",
+        "to": "Fubiz Talks 2018",
+        "date": "Sep. 26, 2018",
+        "link": "/case/fubiz-talks-2018"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "Keus",
+        "date": "Jul. 18, 2018",
+        "link": "/case/keus"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Developer Site",
+        "to": "Keus",
+        "date": "Jul. 18, 2018",
+        "link": "/case/keus"
+      },
+      {
+        "organization": "FWA",
+        "title": "Site of the day",
+        "to": "Fubiz Studio",
+        "date": "Feb. 25, 2018",
+        "link": "/case/fubiz-studio"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "Fubiz Studio",
+        "date": "Feb. 22, 2018",
+        "link": "/case/fubiz-studio"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Developer Site",
+        "to": "Fubiz Studio",
+        "date": "Feb. 22, 2018",
+        "link": "/case/fubiz-studio"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Nominee Studio of the Year",
+        "to": "Poignee de main virile",
+        "date": "2017",
+        "link": ""
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "The Feebles",
+        "date": "Jul. 28, 2017",
+        "link": "/case/the-feebles"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "7h34",
+        "date": "Mar. 28, 2017",
+        "link": "/case/7h34"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Developer Site",
+        "to": "7h34",
+        "date": "Mar. 28, 2017",
+        "link": "/case/7h34"
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "Poignee de main virile",
+        "date": "Apr. 06, 2016",
+        "link": ""
+      },
+      {
+        "organization": "Awwwards",
+        "title": "Site of the day",
+        "to": "New Jumo Concept",
+        "date": "Aug. 28, 2014",
+        "link": "/case/new-jumo-concept"
+      }
+    ]
+  }
